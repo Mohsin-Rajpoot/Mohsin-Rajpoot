@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohsin Rajpoot</h1>
 <h3 align="center">A passionate react js developer.</h3>
 
+
+
 - 🌱 I’m currently learning **algorithms and web technologies.**
 
 - 💬 Ask me about **anything**
+
+![](68747470733a2f2f7777772e626573746167656e636965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30312f6465736b2e676966.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
