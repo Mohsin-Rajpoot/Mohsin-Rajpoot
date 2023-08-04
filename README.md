@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsin Rajpoot</h1>
-<h3 align="center">A passionate data scientist developer.</h3>
+<h3 align="center">A passionate data scientist </h3>
 
 
 
